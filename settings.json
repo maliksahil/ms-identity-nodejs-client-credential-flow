@@ -1,0 +1,7 @@
+{
+    "client_id": "<guid>",
+    "client_secret": "<password>",
+    "grant_type": "client_credentials",
+    "scope": "https://graph.microsoft.com/.default",
+    "tenant" : "<tenantname>.onmicrosoft.com"
+}
